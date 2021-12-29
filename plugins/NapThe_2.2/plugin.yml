@@ -1,0 +1,7 @@
+name: NapThe
+main: napthe\Main
+version: 2.2
+api: 3.0.1
+commands:
+  napthe:
+    description: Nạp Thẻ Cho Server!

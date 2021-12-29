@@ -1,0 +1,45 @@
+---
+version: 1.4.0
+default-factions-plugin: FactionsPro
+groups:
+  Owner:
+    nametag: '&8&a๖ۣۜ[Owner]๖ۣۜ&f&r {display_name}'
+    chat: §l§a[{fac_name}]§b♥️§cØwņęř§b♥️§f {display_name} >§o§a {msg}
+  Helper:
+    nametag: '&8&d[&cHelper&d]&f&r {display_name}→ &6&l{msg}'
+    chat: §c§d[{fac_name}][§dHelper§c] §d{display_name} §f→» §d{msg} §f«←
+  Co-Owner:
+    nametag: '&8&l[Co-Owner]&f&r {display_name}'
+    chat: §l§e[{fac_name}]§a‡§d★§fCo-Owner§d★§a‡ §d{display_name} §l§d√§a|§f {msg} §a|§d√
+  Guest:
+    nametag: '&8&l[Guest]&f&r {display_name}'
+    chat: §d§3[{fac_name}]√§a♦§fPLAYER§a♦§d√ §f{display_name} §a♪ §f{msg} §a♪
+  PoliceOp:
+    nametag: '&8&l[PoliceOp]&f&r {display_name}'
+    chat: §l§6[{fac_name}]§b★§eBossPolice§b★ §e{display_name} §b≈ §e{msg} §b≈
+  Plantinum:
+    nametag: '&8&l[Plantinum]&f&r {display_name}'
+    chat: §l§a[{fac_name}]§6°=§cPLANTINUM-VOTE§6=° {display_name} §l§e∆ §6{msg} §e∆
+  Police:
+    nametag: '&8&l[Police]&f&r {display_name}'
+    chat: §l§b[{fac_name}]§c√♣§dPolice§c♣√ §d{display_name} §l§cO+- §d{msg} §c-+O
+  vip1:
+    nametag: '&8&l[vip1]&f&r {display_name}'
+    chat: §l§5[{fac_name}]§f♦§6VipI§f♦ {display_name} §f† §e{msg} §f†
+  Builder:
+    nametag: '&8&l[Builder]&f&r {display_name}'
+    chat: §l§2[{fac_name}]§e♦-Builder-♦ §f{display_name} §l§e♠ §f{msg} §e♠
+  Youtuber:
+    nametag: '&8&l[Youtuber]&f&r {display_name}'
+    chat: '&9§4[{fac_name}][=&eYoutuber&9=] &f{display_name} &9> &e{msg} &9<'
+  Boss:
+    chat: §l§a[{fac_name}]l§c--¤[§fBOSS_EVENT§c]¤-- §l§f[|BOSS|{display_name}] §l§c>-> §l§f{msg}
+      §c<-<
+    nametag: '&8&l[Boss]&f&r {display_name}'
+  vip2:
+    chat: §b§a[{fac_name}]§b¤《♧《§6VIP-II§b》♧》¤ §6{display_name} §b-=+ §6{msg} §b+=-
+    nametag: '&8&l[vip2]&f&r {display_name}'
+  Admin:
+    chat: '&8&l[Admin]&f&r {display_name} &7> {msg}'
+    nametag: '&8&l[Admin]&f&r {display_name}'
+...

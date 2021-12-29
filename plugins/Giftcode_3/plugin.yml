@@ -1,0 +1,9 @@
+name: Giftcode3_HeoGM
+main: giftcode3\Giftcode3
+version: 1.2beta3
+api: 2.0.0
+commands: 
+  nhancode3:
+   description: redeem giftcode
+  timcode3:
+    description: generate giftcode(OP only)

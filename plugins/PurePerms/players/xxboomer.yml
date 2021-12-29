@@ -1,0 +1,10 @@
+---
+userName: XxBoomer
+group: Owner
+permissions:
+- pocketmine.command.op
+- pocketmine.command.op
+worlds: []
+prefix: D
+suffix: Owner
+...

@@ -1,0 +1,12 @@
+name: Quà_Vip_SPC_By_HeoGM
+author: kt
+api: 2.0.0
+main: ktpl\PX
+version: 1
+commands:
+   quavip1:
+      description: Nhận QUÀ VIP CỦA SERVER SOC
+      permission: tool.cmd
+permissions:
+    tool.cmd:
+        default: op

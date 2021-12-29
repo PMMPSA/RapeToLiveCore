@@ -1,0 +1,9 @@
+name: Giftcode
+main: giftcode\Giftcode
+version: 1.2beta1
+api: 3.0.0-ALPHA7
+commands: 
+  redeem:
+   description: redeem giftcode
+  gencode:
+    description: generate giftcode(OP only)

@@ -1,0 +1,73 @@
+
+# PureChat by 64FF00 (xktiverz@gmail.com, @64ff00 for Twitter)
+
+---
+
+# PureChat version string
+# - string
+version: "1.4.0-BETA-04"
+
+# Set default factions plugin for PureChat
+# - FactionsPro / XeviousPE-Factions (§l§9-§8]§b>§7[§cXevious§aTestSrv§7]§b<§8[§9-) / null
+default-factions-plugin:FactionPro
+
+# Enable this if you want to use per-world chat formats / per-world nametags for players
+# - true / false
+enable-multiworld-chat: false
+
+# Please check if you have all PurePerms groups in your server here
+
+# &0: Black, &1: Dark Blue, &2: Dark Green, &3: Dark Aqua, &4: Dark Red, &5: Dark Purple, &6: Gold, &7: Gray, &8: Dark Gray, &9: Blue
+# &a: Green, &b: Aqua, &c: Red, &d: Light Purple, &e: Yellow, &f: White
+# &k: Obfuscated, &l: Bold, &m: Strikethrough, &n: Underline, &o: Italic, &r: Reset
+
+# Available PureChat tags: {display_name}, {msg}, {fac_name}, {fac_rank}, {prefix}, {suffix}, {world}
+---
+groups:
+  Owner:
+    nametag: '&8&a๖ۣۜ[Owner]๖ۣۜ&f&r {display_name}'
+    chat: '&8&e๖ۣۜ[&bOwner&e]๖ۣۜ&f&r {display_name} &d→ &a{msg}'
+  Helper:
+    nametag: '&8&d[&cHelper&d]&f&r {display_name}→ &6&l{msg}'
+    chat: §c[§dHelper§c] §d{display_name} §f→» §d{msg} §f«←
+  Co-Owner:
+    nametag: '&8&l[Co-Owner]&f&r {display_name}'
+    chat: §l§a‡§d★§fCo-Owner§d★§a‡ §d{display_name} §l§d√§a|§f {msg} §a|§d√
+  Guest:
+    nametag: '&8&l[Guest]&f&r {display_name}'
+    chat: §d√§a♦§fPLAYER§a♦§d√ §f{display_name} §a♪ §f{msg} §a♪
+  PoliceOp:
+    nametag: '&8&l[PoliceOp]&f&r {display_name}'
+    chat: §l§b★§eBossPolice§b★ §e{display_name} §b≈ §e{msg} §b≈
+  Plantinum:
+    nametag: '&8&l[Plantinum]&f&r {display_name}'
+    chat: §l§6°=§cPLANTINUM-VOTE§6=° {display_name} §l§e∆ §6{msg} §e∆
+  Police:
+    nametag: '&8&l[Police]&f&r {display_name}'
+    chat: §l§c√♣§dPolice§c♣√ §d{display_name} §l§cO+- §d{msg} §c-+O
+  vip1:
+    nametag: '&8&l[vip1]&f&r {display_name}'
+    chat: §l§f♦§6VipI§f♦ {display_name} §f† §e{msg} §f†
+  Builder:
+    nametag: '&8&l[Builder]&f&r {display_name}'
+    chat: §l§e♦-Builder-♦ §f{display_name} §l§e♠ §f{msg} §e♠
+  Co-Ownerworlds:
+    sb:
+      nametag: §l§aCo-Owner
+  Guestworlds:
+    sb:
+      nametag: §d√§fPlayer§d√
+  Lon:
+    chat: §d=§f-Bé-Gái-5-Tuổi-Bị-Ấu-Dâm-§d= {display_name} §f¥+ §d{msg} §f+¥
+    nametag: '&8&l[Lon]&f&r {display_name}'
+  Youtuber:
+    nametag: '&8&l[Youtuber]&f&r {display_name}'
+    chat: '&9[=&eYoutuber&9=] &f{display_name} &9> &e{msg} &9<'
+  Boss:
+    chat: §l§c--¤[§fBOSS_EVENT§c]¤-- §l§f[|BOSS|{display_name}] §l§c>-> §l§f{msg}
+      §c<-<
+    nametag: '&8&l[Boss]&f&r {display_name}'
+  vip2:
+    chat: §b¤《♧《§6VIP-II§b》♧》¤ §6{display_name} §b-=+ §6{msg} §b+=-
+    nametag: '&8&l[vip2]&f&r {display_name}'
+...

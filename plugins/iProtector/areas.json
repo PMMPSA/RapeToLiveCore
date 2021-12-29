@@ -1,0 +1,1 @@
+[{"name":"shop","flags":{"edit":false,"god":true,"touch":true},"pos1":[-221,74,50],"pos2":[-287,68,93],"level":"sb","whitelist":["minuha"]},{"name":"lobby","flags":{"edit":false,"god":false,"touch":false},"pos1":[89,53,166],"pos2":[169,4,86],"level":"hl","whitelist":["heogm"]}]

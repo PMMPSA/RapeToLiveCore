@@ -1,0 +1,449 @@
+---
+Guest:
+  alias: gst
+  inheritance: []
+  permissions:
+  - -essentials.kit
+  - -essentials.kit.other
+  - -pocketmine.command.me
+  - class.hoason
+  - class.ngami
+  - class.ngudoc
+  - essential.warp
+  - essentialTP.command.warp
+  - essentialTP.warp
+  - essentials.warp
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.mw
+  - pocketmine.command.warp
+  - pperms.command.ppinfo
+  - rule.cmd
+  - sbpe.cmd.create
+  - sbpe.cmd.help
+  - sbpe.cmd.join
+  - tool.cmd
+  - tpa
+  worlds:
+    world:
+      isDefault: true
+      permissions: []
+    sb:
+      isDefault: true
+      permissions: []
+  isDefault: true
+Admin:
+  alias: adm
+  inheritance:
+  - Guest
+  permissions:
+  - ban
+  - ban-ip
+  - essentials.gamemode
+  - essentials.warp
+  - fly
+  - gamemode
+  - mute
+  - pocketmine.broadcast
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.op
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  - poketmine.command.kits
+  - tp
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+Owner:
+  alias: owr
+  inheritance:
+  - Admin
+  permissions:
+  - essentials
+  - ommands.op.usage
+  - op
+  - pocketmine.command
+  - pocketmine.command.ban
+  - pocketmine.command.ban.ip
+  - pocketmine.command.ban.player
+  - pocketmine.command.op
+  - pocketmine.command.op.give
+  - pocketmine.command.op.take
+  - pocketmine.command.unban
+  - pocketmine.command.unban.player
+  - pperms.command
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+Youtuber:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - cma.mute
+  - cmd,mute
+  - cmd.mute
+  - command.mute
+  - essentials.warp
+  - fly.command
+  - mute
+  - mute.cmd
+  - pocketmine.ckmmand.timeset
+  - pocketmine.command.enchant
+  - pocketmine.command.enchant.other
+  - pocketmine.command.fly
+  - pocketmine.command.mute
+  - pocketmine.command.teleport
+  - pocketmine.command.time.set
+  - pocketmine.command.timeset
+  - pocketmine.command.weather
+  - rule.cmd
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+D:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+CanhSat:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - ""
+  - essentialTP.command.tp
+  - essentials.warp
+  - mute
+  - pocketmine.command.ban
+  - pocketmine.command.ban.ip
+  - pocketmine.command.ban.player
+  - pocketmine.command.fly
+  - pocketmine.command.gamemode
+  - pocketmine.command.gamemode.1
+  - pocketmine.command.kick
+  - pocketmine.command.mute
+  - pocketmine.command.tp
+  - pocketmine.command.unban
+  - pocketmine.command.unban.player
+  - tp
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+§aVoter:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+Police:
+  alias: pol
+  isDefault: false
+  inheritance: []
+  permissions:
+  - Kick
+  - alias
+  - alias.command
+  - alias.command.alias
+  - ban
+  - effect
+  - essentials.warp
+  - fly.command
+  - kick
+  - mute
+  - nick
+  - nick.use
+  - pocketmine.command.alias
+  - pocketmine.command.ban
+  - pocketmine.command.ban.ip
+  - pocketmine.command.ban.player
+  - pocketmine.command.effect
+  - pocketmine.command.enchant
+  - pocketmine.command.help
+  - pocketmine.command.kick
+  - pocketmine.command.kill
+  - pocketmine.command.kill.other
+  - pocketmine.command.kill.self
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.mute
+  - pocketmine.command.pardon
+  - pocketmine.command.particle
+  - pocketmine.command.say
+  - pocketmine.command.teleport
+  - pocketmine.command.tell
+  - pocketmine.command.unban
+  - pocketmine.command.unban.player
+  - pocketmine.command.version
+  - poketmine.command.fly
+  - tp
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+Quậy:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+Builder:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - ..
+  - EssentialTP.command.tp
+  - effect
+  - essetials.gamemode
+  - fly
+  - fly.command
+  - fly.me
+  - gamemode
+  - kick
+  - pocketmine.command.ban
+  - pocketmine.command.ban.ip
+  - pocketmine.command.ban.player
+  - pocketmine.command.gamemode
+  - pocketmine.command.teleport
+  - pocketmine.command.tp
+  - pocketmine.command.unban
+  - pocketmine.command.unban.player
+  - pocketmine.gamemode.command
+  - slapper
+  - tp
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+vip1:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - pocketmine.command.tp
+  - tool.cmd
+  - tp
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+PoliceOp:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.me
+  - pocketmine.command.ban
+  - pocketmine.command.ban.ip
+  - pocketmine.command.ban.player
+  - pocketmine.command.effect
+  - pocketmine.command.fly
+  - pocketmine.command.gamemode
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  - pocketmine.command.timeset
+  - pocketmine.command.unban
+  - pocketmine.command.unban.player
+  - poketmine.command.gamemode
+  - pperms.command.addgroup
+  - pperms.command.addgroups
+  worlds:
+    world:
+      isDefault: false
+      permissions: []
+    sb:
+      isDefault: false
+      permissions: []
+Plantinum:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly.command
+  - pocketmine.command.teleport
+  worlds:
+    sb:
+      isDefault: false
+      permissions: []
+Co-Owner:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds:
+    sb:
+      isDefault: false
+      permissions: []
+Co-Owner2:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds:
+    sb:
+      isDefault: false
+      permissions: []
+Voter:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds:
+    sb:
+      isDefault: false
+      permissions: []
+Helper:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - essentialsTP.command.tp
+  - fly.command
+  - gamemode
+  - hi
+  - pocketmine.command.effect
+  - pocketmine.command.enchant
+  - pocketmine.command.help
+  - pocketmine.command.kick
+  - pocketmine.command.kill
+  - pocketmine.command.kill.other
+  - pocketmine.command.kill.self
+  - pocketmine.command.list
+  - pocketmine.command.me
+  - pocketmine.command.particle
+  - pocketmine.command.say
+  - pocketmine.command.teleport
+  - pocketmine.command.tell
+  - pocketmine.command.tp
+  worlds:
+    sb:
+      isDefault: false
+      permissions: []
+anhyêuem:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds:
+    sb:
+      isDefault: false
+      permissions: []
+Lon:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds:
+    sb:
+      isDefault: false
+      permissions: []
+Boss:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - pocketmine.command.gamemode
+  worlds:
+    sb:
+      isDefault: false
+      permissions: []
+vip2:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - fly
+  - fly.command
+  - kick
+  - pocketmine.command.fly
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  - too
+  - tool.cmd
+  worlds:
+    sb:
+      isDefault: false
+      permissions: []
+ThanhTroll:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds:
+    sb:
+      isDefault: false
+      permissions: []
+hv:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+tg:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+...

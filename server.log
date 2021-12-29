@@ -1,0 +1,1371 @@
+2017-10-12 [19:37:33] [Server thread/INFO]: Selected English (eng) as the base language
+2017-10-12 [19:37:33] [Server thread/INFO]: Opening server on 0.0.0.0:1111
+2017-10-12 [19:37:33] [Server thread/INFO]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-12 [19:37:35] [Server thread/INFO]: Loading recipes...
+2017-10-12 [19:37:35] [Server thread/INFO]: Loading resource packs...
+2017-10-12 [19:37:35] [Server thread/NOTICE]: Level "world" not found
+2017-10-12 [19:37:36] [Server thread/INFO]: Preparing level "world"
+2017-10-12 [19:37:36] [Server thread/NOTICE]: Spawn terrain for level "world" is being generated in the background
+2017-10-12 [19:37:36] [Server thread/NOTICE]: Level "nether" not found
+2017-10-12 [19:37:36] [Server thread/INFO]: Preparing level "nether"
+2017-10-12 [19:37:36] [Server thread/NOTICE]: Spawn terrain for level "nether" is being generated in the background
+2017-10-12 [19:37:36] [Server thread/NOTICE]: Level "ender" not found
+2017-10-12 [19:37:36] [Server thread/INFO]: Preparing level "ender"
+2017-10-12 [19:37:36] [Server thread/NOTICE]: Spawn terrain for level "ender" is being generated in the background
+2017-10-12 [19:37:36] [Server thread/INFO]: Starting GS4 status listener
+2017-10-12 [19:37:36] [Server thread/INFO]: Setting query port to 1111
+2017-10-12 [19:37:36] [Server thread/INFO]: Query running on 0.0.0.0:1111
+2017-10-12 [19:37:37] [Server thread/INFO]: Default game type: Survival Mode
+2017-10-12 [19:37:37] [Server thread/INFO]: Done (46.773s)! For help, type "help" or "?"
+2017-10-12 [19:45:30] [Server thread/INFO]: 
+
+  _____            _               _____
+ / ____|          (_)             |  __ \
+| |  __  ___ _ __  _ ___ _   _ ___| |__) | __ ___
+| | |_ |/ _ \ '_ \| / __| | | / __|  ___/ '__/ _ \
+| |__| |  __/ | | | \__ \ |_| \__ \ |   | | | (_) |
+ \_____|\___|_| |_|_|___/\__, |___/_|   |_|  \___/
+                          __/ |
+                         |___/
+
+	Version: 1.1dev (0000000)
+	Client Version: v1.1.0,v1.1.1,v1.1.2,v1.1.3,v1.1.4,v1.1.5,v1.1.7
+	PHP Version: 7.0.18
+	OS: WINNT
+	This core is maintained by RapeToLive (https://github.com/RapeToLive)
+	Discord Group chat: https://discord.gg/WrKzRNn 
+	Chatroom on QQ: 559301590 
+	Welcome to donate us on QQ: 1912003473
+	
+2017-10-12 [19:45:30] [Server thread/INFO]: Loading properties and configuration...
+2017-10-12 [19:45:30] [Server thread/INFO]: Selected English (eng) as the base language
+2017-10-12 [19:45:30] [Server thread/INFO]: Opening server on 0.0.0.0:1111
+2017-10-12 [19:45:30] [Server thread/INFO]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-12 [19:45:31] [Server thread/INFO]: Loading recipes...
+2017-10-12 [19:45:31] [Server thread/INFO]: Loading resource packs...
+2017-10-12 [19:45:31] [Server thread/INFO]: Preparing level "world"
+2017-10-12 [19:45:31] [Server thread/INFO]: Starting GS4 status listener
+2017-10-12 [19:45:31] [Server thread/INFO]: Setting query port to 1111
+2017-10-12 [19:45:31] [Server thread/INFO]: Query running on 0.0.0.0:1111
+2017-10-12 [19:45:31] [Server thread/INFO]: Default game type: Survival Mode
+2017-10-12 [19:45:31] [Server thread/INFO]: Done (1.349s)! For help, type "help" or "?"
+2017-10-12 [20:04:02] [Server thread/INFO]: Selected English (eng) as the base language
+2017-10-12 [20:04:02] [Server thread/INFO]: Opening server on 0.0.0.0:1111
+2017-10-12 [20:04:02] [Server thread/INFO]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-12 [20:04:03] [Server thread/INFO]: Loading recipes...
+2017-10-12 [20:04:03] [Server thread/INFO]: Loading resource packs...
+2017-10-12 [20:04:03] [Server thread/INFO]: Preparing level "world"
+2017-10-12 [20:04:03] [Server thread/NOTICE]: Your rtlcore.yml needs update
+2017-10-12 [20:04:03] [Server thread/NOTICE]: Current Version: 0   Latest Version: 28
+2017-10-12 [20:04:03] [Server thread/INFO]: Starting GS4 status listener
+2017-10-12 [20:04:03] [Server thread/INFO]: Setting query port to 1111
+2017-10-12 [20:04:03] [Server thread/INFO]: Query running on 0.0.0.0:1111
+2017-10-12 [20:04:03] [Server thread/INFO]: Default game type: Survival Mode
+2017-10-12 [20:04:03] [Server thread/INFO]: Done (1.42s)! For help, type "help" or "?"
+2017-10-12 [20:06:32] [Server thread/INFO]: Selected English (eng) as the base language
+2017-10-12 [20:06:32] [Server thread/INFO]: Opening server on 0.0.0.0:1111
+2017-10-12 [20:06:32] [Server thread/INFO]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-12 [20:06:33] [Server thread/INFO]: Loading recipes...
+2017-10-12 [20:06:33] [Server thread/INFO]: Loading resource packs...
+2017-10-12 [20:06:33] [Server thread/INFO]: Preparing level "world"
+2017-10-12 [20:06:33] [Server thread/INFO]: Preparing level "nether"
+2017-10-12 [20:06:33] [Server thread/INFO]: Preparing level "ender"
+2017-10-12 [20:06:33] [Server thread/INFO]: Starting GS4 status listener
+2017-10-12 [20:06:33] [Server thread/INFO]: Setting query port to 1111
+2017-10-12 [20:06:33] [Server thread/INFO]: Query running on 0.0.0.0:1111
+2017-10-12 [20:06:33] [Server thread/INFO]: Default game type: Survival Mode
+2017-10-12 [20:06:33] [Server thread/INFO]: Done (1.074s)! For help, type "help" or "?"
+2017-10-12 [20:48:50] [RTL/THÔNG TIN]: Selected English (eng) as the base language
+2017-10-12 [20:48:50] [RTL/THÔNG TIN]: Opening server on 0.0.0.0:1111
+2017-10-12 [20:48:50] [RTL/THÔNG TIN]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-12 [20:48:51] [RTL/THÔNG TIN]: Loading recipes...
+2017-10-12 [20:48:51] [RTL/THÔNG TIN]: Loading resource packs...
+2017-10-12 [20:48:51] [RTL/THÔNG TIN]: Preparing level "world"
+2017-10-12 [20:48:51] [RTL/THÔNG TIN]: Preparing level "nether"
+2017-10-12 [20:48:51] [RTL/THÔNG TIN]: Preparing level "ender"
+2017-10-12 [20:48:51] [RTL/THÔNG TIN]: Starting GS4 status listener
+2017-10-12 [20:48:51] [RTL/THÔNG TIN]: Setting query port to 1111
+2017-10-12 [20:48:51] [RTL/THÔNG TIN]: Query running on 0.0.0.0:1111
+2017-10-12 [20:48:52] [RTL/THÔNG TIN]: Default game type: Survival Mode
+2017-10-12 [20:48:52] [RTL/THÔNG TIN]: Done (1.599s)! For help, type "help" or "?"
+2017-10-12 [20:51:17] [RTL/THÔNG TIN]: Selected English (eng) as the base language
+2017-10-12 [20:51:17] [RTL/THÔNG TIN]: Opening server on 0.0.0.0:1111
+2017-10-12 [20:51:17] [RTL/THÔNG TIN]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-12 [20:51:18] [RTL/THÔNG TIN]: Loading recipes...
+2017-10-12 [20:51:18] [RTL/THÔNG TIN]: Loading resource packs...
+2017-10-12 [20:51:18] [RTL/THÔNG TIN]: Preparing level "world"
+2017-10-12 [20:51:18] [RTL/THÔNG TIN]: Preparing level "nether"
+2017-10-12 [20:51:18] [RTL/THÔNG TIN]: Preparing level "ender"
+2017-10-12 [20:51:18] [RTL/THÔNG TIN]: Starting GS4 status listener
+2017-10-12 [20:51:18] [RTL/THÔNG TIN]: Setting query port to 1111
+2017-10-12 [20:51:18] [RTL/THÔNG TIN]: Query running on 0.0.0.0:1111
+2017-10-12 [20:51:18] [RTL/THÔNG TIN]: Default game type: Survival Mode
+2017-10-12 [20:51:18] [RTL/THÔNG TIN]: Done (1.493s)! For help, type "help" or "?"
+2017-10-12 [20:55:27] [RTL/THÔNG TIN]: Selected English (eng) as the base language
+2017-10-12 [20:55:27] [RTL/THÔNG TIN]: Opening server on 0.0.0.0:1111
+2017-10-12 [20:55:27] [RTL/THÔNG TIN]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-12 [20:55:27] [RTL/THÔNG TIN]: Loading recipes...
+2017-10-12 [20:55:27] [RTL/THÔNG TIN]: Loading resource packs...
+2017-10-12 [20:55:27] [RTL/THÔNG TIN]: Preparing level "world"
+2017-10-12 [20:55:27] [RTL/THÔNG TIN]: Preparing level "nether"
+2017-10-12 [20:55:27] [RTL/THÔNG TIN]: Preparing level "ender"
+2017-10-12 [20:55:28] [RTL/THÔNG TIN]: Starting GS4 status listener
+2017-10-12 [20:55:28] [RTL/THÔNG TIN]: Setting query port to 1111
+2017-10-12 [20:55:28] [RTL/THÔNG TIN]: Query running on 0.0.0.0:1111
+2017-10-12 [20:55:28] [RTL/THÔNG TIN]: Default game type: Survival Mode
+2017-10-12 [20:55:28] [RTL/THÔNG TIN]: Done (1.103s)! For help, type "help" or "?"
+2017-10-13 [20:37:59] [RTL/THÔNG TIN]: Selected English (eng) as the base language
+2017-10-13 [20:37:59] [RTL/THÔNG TIN]: Opening server on 0.0.0.0:1111
+2017-10-13 [20:38:00] [RTL/THÔNG TIN]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-13 [20:38:01] [RTL/THÔNG TIN]: Loading recipes...
+2017-10-13 [20:38:01] [RTL/THÔNG TIN]: Loading resource packs...
+2017-10-13 [20:38:01] [RTL/THÔNG TIN]: Loading (Source) MysUFarm v1.1
+2017-10-13 [20:38:01] [RTL/KHẨN CẤP]: An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2017-10-13 [20:38:01] [RTL/KHẨN CẤP]: Please upload the "C:\Users\Dcms\Downloads\RapeToLiveCore[PTK]\crashdumps/CrashDump_Fri_Oct_13-20.38.01-+06_2017.log" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
+2017-10-13 [20:47:40] [RTL/THÔNG TIN]: Selected English (eng) as the base language
+2017-10-13 [20:47:40] [RTL/THÔNG TIN]: Opening server on 0.0.0.0:1111
+2017-10-13 [20:47:40] [RTL/THÔNG TIN]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading recipes...
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading resource packs...
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading Alias v1.2.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading AntiServerStop v1.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading AutoInv v1.0.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading AutoMessage v1.16
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading blockMCPE14 v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading Broadcaster v1.16
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading ClearChat v1.0.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading CommandTracker v1.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading CustomAlerts v1.6
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading EconomyAPI v2.0.9
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading EconomyJob v2.0.4
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading EconomyLand v2.0.9
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading EconomySell v2.0.7
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading EconomyShop v2.0.7
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading essentialsTP v1.1.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading aFloatingText v1.2
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading Fly v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading IFloatingText v1.1.3
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading InventorySize v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading iProtector v3.1b
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading ItemCasePE v1.0.8
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading ItemCloud v1.3
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading KeepInventory v1.2.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading KillChat v1.0.2.MOD
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading MagicWE v0.2.6
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [MagicWE] MagicWE has been loaded!
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading ManyWorlds v2.0.3
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading MisteryBox v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading MSpawns v1.5
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading Nicknames v1.0.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading NoFrameDrop v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading ParticlesPlus v0.0.2
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading PocketGuard v2.1.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading PlayerSize v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading NoDrops v1.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading PmChair v1.3
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading PurePerms v1.3.6
+2017-10-13 [20:47:41] [RTL/ĐỂ Ý]: PurePerms by 64FF00 (Twitter: @64FF00)
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [PurePerms] Setting default language to 'en'
+2017-10-13 [20:47:41] [RTL/ĐỂ Ý]: [PurePerms] Multiworld support is currently disabled.
+2017-10-13 [20:47:41] [RTL/ĐỂ Ý]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading ReserveSlots v1.0.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading ServerMail v0.0.2
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading SignEnchant v1.1.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading SignModifier v1.0.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading SimpleAuth v1.7.2
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading Slapper v2.1_PHP7
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading superBAR v1.6.2
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading TapToDo v2.2.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading Titler v0.1.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [Titler] Đang tải dữ liệu...
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading TPALL v1.0.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading WorldProtect v2.2.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) Giftcode2_HeoGM v1.2beta2
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) Giftcode3_HeoGM v1.2beta3
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) Giftcode4_HeoGM v1.2beta4
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) Giftcode v1.2beta1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) Quà_Vip_SPC_By_HeoGM v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) FactionsPro v1.0 rewrite by PTK-KienPham
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) NapThe v2.2
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) RD v2.0.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) Rules_by_HeoGM_0.0.1# v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) SETVIP v2.3
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) Trade[PTK] v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) TransferServerTitle v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading SimpleAuthHelper v2.0.4
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading GrabBag v2.3.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) PureChat v1.4.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Loading (Source) SkyBlock v2
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling AutoMessage v1.16
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling Broadcaster v1.16
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling CommandTracker v1.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling CustomAlerts v1.6
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling MagicWE v0.2.6
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [MagicWE] MagicWE enabled!
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling MSpawns v1.5
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling SimpleAuth v1.7.2
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [SimpleAuth] Everything loaded!
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling WorldProtect v2.2.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [WorldProtect] Enabled 4 features
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling SkyBlock v2
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [SkyBlock] Đang Chạy Plugin SkyBlock Bởi PTK-KienPham
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Preparing level "world"
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Preparing level "nether"
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Preparing level "ender"
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling Alias v1.2.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling AntiServerStop v1.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [AntiServerStop] AntiServerStop by paetti loaded.
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling AutoInv v1.0.1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [AutoInv] Enabled
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling blockMCPE14 v1
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling ClearChat v1.0.0
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [ClearChat] by Mineboy210 geladen!
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: Enabling EconomyAPI v2.0.9
+2017-10-13 [20:47:41] [RTL/ĐỂ Ý]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-10-13 [20:47:41] [RTL/THÔNG TIN]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling EconomyJob v2.0.4
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling EconomyLand v2.0.9
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling EconomySell v2.0.7
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling EconomyShop v2.0.7
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling essentialsTP v1.1.0
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [essentialsTP] essentialsTP+ loading...
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [essentialsTP] [INFO] loading [config.yml]....
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [essentialsTP] [INFO] loading [config.yml] DONE
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [essentialsTP] essentialsTP+ loaded!
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling aFloatingText v1.2
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [aFloatingText] Плагин загружен
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Fly v1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [Fly] Plugin Fly v1 by DragonPlayzMC
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling IFloatingText v1.1.3
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [IFloatingText] 数据读取中..
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [IFloatingText] 数据读取成功！
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [IFloatingText] IFloatingText v1.1.3 For API 3.0.x đã được kích hoạt!
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling InventorySize v1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling iProtector v3.1b
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling ItemCasePE v1.0.8
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling ItemCloud v1.3
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling KeepInventory v1.2.0
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: KeepInventory by boybook.
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling KillChat v1.0.2.MOD
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [KillChat] Modified KillChat extension for superBAR enabled
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling ManyWorlds v2.0.3
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling MisteryBox v1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Nicknames v1.0.0
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling NoFrameDrop v1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: NoFrameDrop MADE BY vk.com/frago9876543210
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling ParticlesPlus v0.0.2
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling PocketGuard v2.1.1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling PlayerSize v1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [PlayerSize] Loading...
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling NoDrops v1.1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: NoDrops Loaded!
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling PmChair v1.3
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling PurePerms v1.3.6
+2017-10-13 [20:47:42] [RTL/ĐỂ Ý]: [PurePerms] Set data provider to YAMLv1.
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling ReserveSlots v1.0.1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling ServerMail v0.0.2
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [ServerMail] Using ServerMailAPI found at 'phar://C:/Users/Dcms/Downloads/RapeToLiveCore[PTK]/plugins/ServerMail_v0.0.2.phar/src/tschrock/ServerMailAPI.php'
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling SignEnchant v1.1.1
+2017-10-13 [20:47:42] [RTL/ĐỂ Ý]: [SignEnchant] SignEnchantActivado
+2017-10-13 [20:47:42] [RTL/ĐỂ Ý]: [SignEnchant] Desavtivado
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling SignModifier v1.0.0
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: SignModifier Enabled!
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Slapper v2.1_PHP7
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling superBAR v1.6.2
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [superBAR] superBAR will be enabled after the complete server load
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling TapToDo v2.2.1
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level RankA because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Titler v0.1.0
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [Titler] Đã được kích hoạt!
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling TPALL v1.0.0
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Giftcode2_HeoGM v1.2beta2
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Giftcode3_HeoGM v1.2beta3
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Giftcode4_HeoGM v1.2beta4
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Giftcode v1.2beta1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Quà_Vip_SPC_By_HeoGM v1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [Quà_Vip_SPC_By_HeoGM] PLUGIN QUÀ VIP ĐỘC QUYỀN FOR DOLPAN ON
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling FactionsPro v1.0 rewrite by PTK-KienPham
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling NapThe v2.2
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [NapThe] plugins\NapThe\card_dung.log đã sẵn sàng
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [NapThe] plugins\NapThe\card_delay.log đã sẵn sàng
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling RD v2.0.0
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [RD] Plugin Random Ore Make by Řā Şø and edit for SPC by HeoGM
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Rules_by_HeoGM_0.0.1# v1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [Rules_by_HeoGM_0.0.1#] PLUGIN Luật Lệ Độc Quyền For SPC  ON
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling SETVIP v2.3
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling Trade[PTK] v1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [Trade[PTK]] Trade Đã Hoạt Động! Plugin Được Viết Bởi PTK-KienPham
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling TransferServerTitle v1
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling SimpleAuthHelper v2.0.4
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling GrabBag v2.3.0
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [GrabBag] Enabled 42 features
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Enabling PureChat v1.4.0
+2017-10-13 [20:47:42] [RTL/ĐỂ Ý]: [PureChat] FactionsPro mới đã được bật
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Starting GS4 status listener
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Setting query port to 1111
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Query running on 0.0.0.0:1111
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Default game type: Survival Mode
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: Done (2.655s)! For help, type "help" or "?"
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: -=[Dolpan]=- •Ghi ./sb auto để tìm đảo còn trống
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [superBAR] superBAR loading...
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [superBAR] EconomyAPI OK!
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [superBAR] FactionsPro OK!
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [superBAR] PurePerms OK!
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [superBAR] KillChat OK!
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [superBAR] superBAR by FaigerSYS enabled!
+2017-10-13 [20:47:42] [RTL/THÔNG TIN]: [[Mythic]]Sử dụng /napthe để nạp coin hoặc nạp VIP
+2017-10-13 [20:47:57] [RTL/THÔNG TIN]: -=[Dolpan]=- Nạp thẻ với /napthe coin và nhận nhiều phần quà hấp bẫn•
+2017-10-13 [20:48:11] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> //sb gen sb2
+2017-10-13 [20:48:11] [RTL/THÔNG TIN]: Unknown command. Try /help for a list of commands
+2017-10-13 [20:48:12] [RTL/THÔNG TIN]: -=[Dolpan]=- •Ghi /warp shop và /warp staff để xem nhiều thứ hơn!
+2017-10-13 [20:48:16] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /sb gen sb2
+2017-10-13 [20:48:16] [RTL/THÔNG TIN]: Preparing level "sb2"
+2017-10-13 [20:48:16] [RTL/THÔNG TIN]: [TapToDo] Reloading blocks due to level sb2 loaded...
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level RankA because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:48:16] [RTL/ĐỂ Ý]: Spawn terrain for level "sb2" is being generated in the background
+2017-10-13 [20:48:16] [RTL/THÔNG TIN]: [TᗰK-SkyBlock]Đã tạo ra thế giới SkyBlock sb2 thành công!
+2017-10-13 [20:48:27] [RTL/THÔNG TIN]: -=[Dolpan]=- •Vote để có rank Plantinum với nhiều đặc quyền giống VIP và Police và các phần thưởng•
+2017-10-13 [20:48:37] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /god
+2017-10-13 [20:48:37] [RTL/THÔNG TIN]: Unknown command. Try /help for a list of commands
+2017-10-13 [20:48:42] [RTL/THÔNG TIN]: -=[Dolpan]=- Ghi ./buyec để mua enchant!!
+2017-10-13 [20:48:49] [RTL/THÔNG TIN]: [/1.52.38.85:32188] logged out due to Your MCPE client is outdated!
+2017-10-13 [20:48:57] [RTL/THÔNG TIN]: -=[Dolpan]=- Vào group của server để trao đổi tại bit.do/dolpangroup
+2017-10-13 [20:49:12] [RTL/THÔNG TIN]: -=[Dolpan]=- Vote cho server tại trang bit.do/dolpanpevote để có rank Plantinum với nhiều đặc quyền giống VIP và Police và các phần thưởng•
+2017-10-13 [20:49:56] [RTL/THÔNG TIN]: Selected English (eng) as the base language
+2017-10-13 [20:49:56] [RTL/THÔNG TIN]: Opening server on 0.0.0.0:1111
+2017-10-13 [20:49:56] [RTL/THÔNG TIN]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading recipes...
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading resource packs...
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading Alias v1.2.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading AntiServerStop v1.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading AutoInv v1.0.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading AutoMessage v1.16
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading blockMCPE14 v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading Broadcaster v1.16
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading ClearChat v1.0.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading CommandTracker v1.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading EconomyAPI v2.0.9
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading EconomyJob v2.0.4
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading EconomyLand v2.0.9
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading EconomySell v2.0.7
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading EconomyShop v2.0.7
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading essentialsTP v1.1.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading aFloatingText v1.2
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading Fly v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading IFloatingText v1.1.3
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading InventorySize v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading iProtector v3.1b
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading ItemCasePE v1.0.8
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading ItemCloud v1.3
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading KeepInventory v1.2.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading KillChat v1.0.2.MOD
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading MagicWE v0.2.6
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [MagicWE] MagicWE has been loaded!
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading ManyWorlds v2.0.3
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading MisteryBox v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading MSpawns v1.5
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading Nicknames v1.0.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading NoFrameDrop v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading ParticlesPlus v0.0.2
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading PocketGuard v2.1.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading PlayerSize v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading NoDrops v1.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading PmChair v1.3
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading PurePerms v1.3.6
+2017-10-13 [20:49:57] [RTL/ĐỂ Ý]: PurePerms by 64FF00 (Twitter: @64FF00)
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [PurePerms] Setting default language to 'en'
+2017-10-13 [20:49:57] [RTL/ĐỂ Ý]: [PurePerms] Multiworld support is currently disabled.
+2017-10-13 [20:49:57] [RTL/ĐỂ Ý]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading ReserveSlots v1.0.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading ServerMail v0.0.2
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading SignEnchant v1.1.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading SignModifier v1.0.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading SimpleAuth v1.7.2
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading Slapper v2.1_PHP7
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading superBAR v1.6.2
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading TapToDo v2.2.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading Titler v0.1.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [Titler] Đang tải dữ liệu...
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading TPALL v1.0.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading WorldProtect v2.2.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) Giftcode2_HeoGM v1.2beta2
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) Giftcode3_HeoGM v1.2beta3
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) Giftcode4_HeoGM v1.2beta4
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) Giftcode v1.2beta1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) Quà_Vip_SPC_By_HeoGM v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) FactionsPro v1.0 rewrite by PTK-KienPham
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) NapThe v2.2
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) RD v2.0.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) Rules_by_HeoGM_0.0.1# v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) SETVIP v2.3
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) Tool[PTK] v2.0.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) Trade[PTK] v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) TransferServerTitle v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading SimpleAuthHelper v2.0.4
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading GrabBag v2.3.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) PureChat v1.4.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Loading (Source) SkyBlock v2
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling AutoMessage v1.16
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling Broadcaster v1.16
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling CommandTracker v1.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling MagicWE v0.2.6
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [MagicWE] MagicWE enabled!
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling MSpawns v1.5
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling SimpleAuth v1.7.2
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [SimpleAuth] Everything loaded!
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling WorldProtect v2.2.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [WorldProtect] Enabled 4 features
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling SkyBlock v2
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [SkyBlock] Đang Chạy Plugin SkyBlock Bởi PTK-KienPham
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Preparing level "world"
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Preparing level "nether"
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Preparing level "ender"
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling Alias v1.2.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling AntiServerStop v1.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [AntiServerStop] AntiServerStop by paetti loaded.
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling AutoInv v1.0.1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [AutoInv] Enabled
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling blockMCPE14 v1
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling ClearChat v1.0.0
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [ClearChat] by Mineboy210 geladen!
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: Enabling EconomyAPI v2.0.9
+2017-10-13 [20:49:57] [RTL/ĐỂ Ý]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-10-13 [20:49:57] [RTL/THÔNG TIN]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling EconomyJob v2.0.4
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling EconomyLand v2.0.9
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling EconomySell v2.0.7
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling EconomyShop v2.0.7
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling essentialsTP v1.1.0
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [essentialsTP] essentialsTP+ loading...
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [essentialsTP] [INFO] loading [config.yml]....
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [essentialsTP] [INFO] loading [config.yml] DONE
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [essentialsTP] essentialsTP+ loaded!
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling aFloatingText v1.2
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [aFloatingText] Плагин загружен
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Fly v1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [Fly] Plugin Fly v1 by DragonPlayzMC
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling IFloatingText v1.1.3
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [IFloatingText] 数据读取中..
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [IFloatingText] 数据读取成功！
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [IFloatingText] IFloatingText v1.1.3 For API 3.0.x đã được kích hoạt!
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling InventorySize v1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling iProtector v3.1b
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling ItemCasePE v1.0.8
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling ItemCloud v1.3
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling KeepInventory v1.2.0
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: KeepInventory by boybook.
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling KillChat v1.0.2.MOD
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [KillChat] Modified KillChat extension for superBAR enabled
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling ManyWorlds v2.0.3
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling MisteryBox v1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Nicknames v1.0.0
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling NoFrameDrop v1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: NoFrameDrop MADE BY vk.com/frago9876543210
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling ParticlesPlus v0.0.2
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling PocketGuard v2.1.1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling PlayerSize v1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [PlayerSize] Loading...
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling NoDrops v1.1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: NoDrops Loaded!
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling PmChair v1.3
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling PurePerms v1.3.6
+2017-10-13 [20:49:58] [RTL/ĐỂ Ý]: [PurePerms] Set data provider to YAMLv1.
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling ReserveSlots v1.0.1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling ServerMail v0.0.2
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [ServerMail] Using ServerMailAPI found at 'phar://C:/Users/Dcms/Downloads/RapeToLiveCore[PTK]/plugins/ServerMail_v0.0.2.phar/src/tschrock/ServerMailAPI.php'
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling SignEnchant v1.1.1
+2017-10-13 [20:49:58] [RTL/ĐỂ Ý]: [SignEnchant] SignEnchantActivado
+2017-10-13 [20:49:58] [RTL/ĐỂ Ý]: [SignEnchant] Desavtivado
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling SignModifier v1.0.0
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: SignModifier Enabled!
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Slapper v2.1_PHP7
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling superBAR v1.6.2
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [superBAR] superBAR will be enabled after the complete server load
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling TapToDo v2.2.1
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level RankA because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Titler v0.1.0
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [Titler] Đã được kích hoạt!
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling TPALL v1.0.0
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Giftcode2_HeoGM v1.2beta2
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Giftcode3_HeoGM v1.2beta3
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Giftcode4_HeoGM v1.2beta4
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Giftcode v1.2beta1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Quà_Vip_SPC_By_HeoGM v1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [Quà_Vip_SPC_By_HeoGM] PLUGIN QUÀ VIP ĐỘC QUYỀN FOR DOLPAN ON
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling FactionsPro v1.0 rewrite by PTK-KienPham
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling NapThe v2.2
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [NapThe] plugins\NapThe\card_dung.log đã sẵn sàng
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [NapThe] plugins\NapThe\card_delay.log đã sẵn sàng
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling RD v2.0.0
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [RD] Plugin Random Ore Make by Řā Şø and edit for SPC by HeoGM
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Rules_by_HeoGM_0.0.1# v1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [Rules_by_HeoGM_0.0.1#] PLUGIN Luật Lệ Độc Quyền For SPC  ON
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling SETVIP v2.3
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Tool[PTK] v2.0.0
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [Tool[PTK]] →Đang chạy plugin Tool[PTK]...
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling Trade[PTK] v1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [Trade[PTK]] Trade Đã Hoạt Động! Plugin Được Viết Bởi PTK-KienPham
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling TransferServerTitle v1
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling SimpleAuthHelper v2.0.4
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling GrabBag v2.3.0
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: [GrabBag] Enabled 42 features
+2017-10-13 [20:49:58] [RTL/THÔNG TIN]: Enabling PureChat v1.4.0
+2017-10-13 [20:49:58] [RTL/ĐỂ Ý]: [PureChat] FactionsPro mới đã được bật
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: Starting GS4 status listener
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: Setting query port to 1111
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: Query running on 0.0.0.0:1111
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: Default game type: Survival Mode
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: Done (2.545s)! For help, type "help" or "?"
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: -=[Dolpan]=- •Ghi ./sb auto để tìm đảo còn trống
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: [superBAR] superBAR loading...
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: [superBAR] EconomyAPI OK!
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: [superBAR] FactionsPro OK!
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: [superBAR] PurePerms OK!
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: [superBAR] KillChat OK!
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: [superBAR] superBAR by FaigerSYS enabled!
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: [[Mythic]]Sử dụng /napthe để nạp coin hoặc nạp VIP
+2017-10-13 [20:49:59] [RTL/THÔNG TIN]: [Tool[PTK]-System]→ Không có phiên bản cập nhật nào mới cho Tool[PTK].Bạn đang dùng bản mới nhất!
+2017-10-13 [20:50:10] [RTL/CHỈ TRÍCH]: "Could not pass event 'pocketmine\event\player\PlayerQuitEvent' to 'SimpleAuth v1.7.2': Call to a member function toString() on null on SimpleAuth\EventListener
+2017-10-13 [20:50:10] [RTL/CHỈ TRÍCH]: Error: "Call to a member function toString() on null" (EXCEPTION) in "/plugins/SimpleAuth_v1.7.2 (1).phar/src/SimpleAuth/task/ShowMessageTask" at line 46
+2017-10-13 [20:50:10] [RTL/THÔNG TIN]: AmGl[/1.52.38.85:32188] logged out due to Xbox login required
+2017-10-13 [20:50:12] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /m�w ld sb
+2017-10-13 [20:50:12] [RTL/THÔNG TIN]: Unknown command. Try /help for a list of commands
+2017-10-13 [20:50:14] [RTL/THÔNG TIN]: -=[Dolpan]=- Nạp thẻ với /napthe coin và nhận nhiều phần quà hấp bẫn•
+2017-10-13 [20:50:29] [RTL/THÔNG TIN]: -=[Dolpan]=- •Ghi /warp shop và /warp staff để xem nhiều thứ hơn!
+2017-10-13 [20:50:29] [RTL/CHỈ TRÍCH]: "Could not pass event 'pocketmine\event\player\PlayerQuitEvent' to 'SimpleAuth v1.7.2': Call to a member function toString() on null on SimpleAuth\EventListener
+2017-10-13 [20:50:29] [RTL/CHỈ TRÍCH]: Error: "Call to a member function toString() on null" (EXCEPTION) in "/plugins/SimpleAuth_v1.7.2 (1).phar/src/SimpleAuth/task/ShowMessageTask" at line 46
+2017-10-13 [20:50:29] [RTL/THÔNG TIN]: AmGl[/1.52.38.85:32188] logged out due to Xbox login required
+2017-10-13 [20:51:03] [RTL/CẢNH BÁO]: Online mode has been turned off in server.properties
+2017-10-13 [20:51:03] [RTL/CẢNH BÁO]: Xbox Live authentication is disabled.
+2017-10-13 [20:51:03] [RTL/THÔNG TIN]: Selected English (eng) as the base language
+2017-10-13 [20:51:03] [RTL/THÔNG TIN]: Opening server on 0.0.0.0:1111
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading recipes...
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading resource packs...
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading Alias v1.2.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading AntiServerStop v1.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading AutoInv v1.0.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading AutoMessage v1.16
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading blockMCPE14 v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading Broadcaster v1.16
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading ClearChat v1.0.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading CommandTracker v1.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading EconomyAPI v2.0.9
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading EconomyJob v2.0.4
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading EconomyLand v2.0.9
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading EconomySell v2.0.7
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading EconomyShop v2.0.7
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading essentialsTP v1.1.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading aFloatingText v1.2
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading Fly v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading IFloatingText v1.1.3
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading InventorySize v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading iProtector v3.1b
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading ItemCasePE v1.0.8
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading ItemCloud v1.3
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading KeepInventory v1.2.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading KillChat v1.0.2.MOD
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading MagicWE v0.2.6
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [MagicWE] MagicWE has been loaded!
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading ManyWorlds v2.0.3
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading MisteryBox v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading MSpawns v1.5
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading Nicknames v1.0.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading NoFrameDrop v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading ParticlesPlus v0.0.2
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading PocketGuard v2.1.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading PlayerSize v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading NoDrops v1.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading PmChair v1.3
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading PurePerms v1.3.6
+2017-10-13 [20:51:04] [RTL/ĐỂ Ý]: PurePerms by 64FF00 (Twitter: @64FF00)
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [PurePerms] Setting default language to 'en'
+2017-10-13 [20:51:04] [RTL/ĐỂ Ý]: [PurePerms] Multiworld support is currently disabled.
+2017-10-13 [20:51:04] [RTL/ĐỂ Ý]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading ReserveSlots v1.0.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading ServerMail v0.0.2
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading SignEnchant v1.1.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading SignModifier v1.0.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading SimpleAuth v1.7.2
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading Slapper v2.1_PHP7
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading superBAR v1.6.2
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading TapToDo v2.2.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading Titler v0.1.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [Titler] Đang tải dữ liệu...
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading TPALL v1.0.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading WorldProtect v2.2.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) Giftcode2_HeoGM v1.2beta2
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) Giftcode3_HeoGM v1.2beta3
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) Giftcode4_HeoGM v1.2beta4
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) Giftcode v1.2beta1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) Quà_Vip_SPC_By_HeoGM v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) FactionsPro v1.0 rewrite by PTK-KienPham
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) NapThe v2.2
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) RD v2.0.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) Rules_by_HeoGM_0.0.1# v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) SETVIP v2.3
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) Tool[PTK] v2.0.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) Trade[PTK] v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) TransferServerTitle v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading SimpleAuthHelper v2.0.4
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading GrabBag v2.3.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) PureChat v1.4.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Loading (Source) SkyBlock v2
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling AutoMessage v1.16
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling Broadcaster v1.16
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling CommandTracker v1.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling MagicWE v0.2.6
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [MagicWE] MagicWE enabled!
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling MSpawns v1.5
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling SimpleAuth v1.7.2
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [SimpleAuth] Everything loaded!
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling WorldProtect v2.2.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [WorldProtect] Enabled 4 features
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling SkyBlock v2
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [SkyBlock] Đang Chạy Plugin SkyBlock Bởi PTK-KienPham
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Preparing level "world"
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Preparing level "nether"
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Preparing level "ender"
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling Alias v1.2.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling AntiServerStop v1.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [AntiServerStop] AntiServerStop by paetti loaded.
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling AutoInv v1.0.1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [AutoInv] Enabled
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling blockMCPE14 v1
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling ClearChat v1.0.0
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [ClearChat] by Mineboy210 geladen!
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: Enabling EconomyAPI v2.0.9
+2017-10-13 [20:51:04] [RTL/ĐỂ Ý]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-10-13 [20:51:04] [RTL/THÔNG TIN]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling EconomyJob v2.0.4
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling EconomyLand v2.0.9
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling EconomySell v2.0.7
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling EconomyShop v2.0.7
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling essentialsTP v1.1.0
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [essentialsTP] essentialsTP+ loading...
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [essentialsTP] [INFO] loading [config.yml]....
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [essentialsTP] [INFO] loading [config.yml] DONE
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [essentialsTP] essentialsTP+ loaded!
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling aFloatingText v1.2
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [aFloatingText] Плагин загружен
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Fly v1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [Fly] Plugin Fly v1 by DragonPlayzMC
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling IFloatingText v1.1.3
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [IFloatingText] 数据读取中..
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [IFloatingText] 数据读取成功！
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [IFloatingText] IFloatingText v1.1.3 For API 3.0.x đã được kích hoạt!
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling InventorySize v1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling iProtector v3.1b
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling ItemCasePE v1.0.8
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling ItemCloud v1.3
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling KeepInventory v1.2.0
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: KeepInventory by boybook.
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling KillChat v1.0.2.MOD
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [KillChat] Modified KillChat extension for superBAR enabled
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling ManyWorlds v2.0.3
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling MisteryBox v1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Nicknames v1.0.0
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling NoFrameDrop v1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: NoFrameDrop MADE BY vk.com/frago9876543210
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling ParticlesPlus v0.0.2
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling PocketGuard v2.1.1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling PlayerSize v1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [PlayerSize] Loading...
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling NoDrops v1.1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: NoDrops Loaded!
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling PmChair v1.3
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling PurePerms v1.3.6
+2017-10-13 [20:51:05] [RTL/ĐỂ Ý]: [PurePerms] Set data provider to YAMLv1.
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling ReserveSlots v1.0.1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling ServerMail v0.0.2
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [ServerMail] Using ServerMailAPI found at 'phar://C:/Users/Dcms/Downloads/RapeToLiveCore[PTK]/plugins/ServerMail_v0.0.2.phar/src/tschrock/ServerMailAPI.php'
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling SignEnchant v1.1.1
+2017-10-13 [20:51:05] [RTL/ĐỂ Ý]: [SignEnchant] SignEnchantActivado
+2017-10-13 [20:51:05] [RTL/ĐỂ Ý]: [SignEnchant] Desavtivado
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling SignModifier v1.0.0
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: SignModifier Enabled!
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Slapper v2.1_PHP7
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling superBAR v1.6.2
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [superBAR] superBAR will be enabled after the complete server load
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling TapToDo v2.2.1
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level RankA because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Titler v0.1.0
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [Titler] Đã được kích hoạt!
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling TPALL v1.0.0
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Giftcode2_HeoGM v1.2beta2
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Giftcode3_HeoGM v1.2beta3
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Giftcode4_HeoGM v1.2beta4
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Giftcode v1.2beta1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Quà_Vip_SPC_By_HeoGM v1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [Quà_Vip_SPC_By_HeoGM] PLUGIN QUÀ VIP ĐỘC QUYỀN FOR DOLPAN ON
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling FactionsPro v1.0 rewrite by PTK-KienPham
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling NapThe v2.2
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [NapThe] plugins\NapThe\card_dung.log đã sẵn sàng
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [NapThe] plugins\NapThe\card_delay.log đã sẵn sàng
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling RD v2.0.0
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [RD] Plugin Random Ore Make by Řā Şø and edit for SPC by HeoGM
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Rules_by_HeoGM_0.0.1# v1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [Rules_by_HeoGM_0.0.1#] PLUGIN Luật Lệ Độc Quyền For SPC  ON
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling SETVIP v2.3
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Tool[PTK] v2.0.0
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [Tool[PTK]] →Đang chạy plugin Tool[PTK]...
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling Trade[PTK] v1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [Trade[PTK]] Trade Đã Hoạt Động! Plugin Được Viết Bởi PTK-KienPham
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling TransferServerTitle v1
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling SimpleAuthHelper v2.0.4
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling GrabBag v2.3.0
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: [GrabBag] Enabled 42 features
+2017-10-13 [20:51:05] [RTL/THÔNG TIN]: Enabling PureChat v1.4.0
+2017-10-13 [20:51:05] [RTL/ĐỂ Ý]: [PureChat] FactionsPro mới đã được bật
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: Starting GS4 status listener
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: Setting query port to 1111
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: Query running on 0.0.0.0:1111
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: Default game type: Survival Mode
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: Done (2.469s)! For help, type "help" or "?"
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: -=[Dolpan]=- •Ghi ./sb auto để tìm đảo còn trống
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: [superBAR] superBAR loading...
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: [superBAR] EconomyAPI OK!
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: [superBAR] FactionsPro OK!
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: [superBAR] PurePerms OK!
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: [superBAR] KillChat OK!
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: [superBAR] superBAR by FaigerSYS enabled!
+2017-10-13 [20:51:06] [RTL/THÔNG TIN]: [[Mythic]]Sử dụng /napthe để nạp coin hoặc nạp VIP
+2017-10-13 [20:51:07] [RTL/THÔNG TIN]: [Tool[PTK]-System]→ Không có phiên bản cập nhật nào mới cho Tool[PTK].Bạn đang dùng bản mới nhất!
+2017-10-13 [20:51:21] [RTL/THÔNG TIN]: -=[Dolpan]=- Nạp thẻ với /napthe coin và nhận nhiều phần quà hấp bẫn•
+2017-10-13 [20:51:36] [RTL/THÔNG TIN]: -=[Dolpan]=- •Ghi /warp shop và /warp staff để xem nhiều thứ hơn!
+2017-10-13 [20:51:51] [RTL/THÔNG TIN]: -=[Dolpan]=- •Vote để có rank Plantinum với nhiều đặc quyền giống VIP và Police và các phần thưởng•
+2017-10-13 [20:52:05] [RTL/ĐỂ Ý]: Player data not found for "amgl", creating new profile
+2017-10-13 [20:52:05] [RTL/THÔNG TIN]: [Tool[PTK]] Running
+2017-10-13 [20:52:05] [RTL/THÔNG TIN]: AmGl[/1.52.38.85:32188] [ClientID: -1797049022708885625] logged in with entity id 1 at (world, 128, 70, 128)
+2017-10-13 [20:52:06] [RTL/THÔNG TIN]: -=[Dolpan]=- Ghi ./buyec để mua enchant!!
+2017-10-13 [20:52:12] [RTL/CHỈ TRÍCH]: "Could not pass event 'pocketmine\event\entity\EntityTeleportEvent' to 'IFloatingText v1.1.3': Call to a member function getName() on null on IFloatingText\IFloatingText
+2017-10-13 [20:52:12] [RTL/CHỈ TRÍCH]: Error: "Call to a member function getName() on null" (EXCEPTION) in "/plugins/IFloatingText_v1.1.3(1).phar/src/IFloatingText/IFloatingText" at line 272
+2017-10-13 [20:52:12] [RTL/THÔNG TIN]: AmGl teleported away!
+2017-10-13 [20:52:12] [RTL/CHỈ TRÍCH]: "Could not pass event 'pocketmine\event\player\PlayerJoinEvent' to 'PureChat v1.4.0': Argument 1 passed to pocketmine\utils\Config::setDefaults() must be of the type array, boolean given, called in C:\Users\Dcms\Downloads\RapeToLiveCore[PTK]\src\pocketmine\plugin\PluginBase.php on line 283 on _64FF00\PureChat\PCListener
+2017-10-13 [20:52:12] [RTL/CHỈ TRÍCH]: TypeError: "Argument 1 passed to pocketmine\utils\Config::setDefaults() must be of the type array, boolean given, called in C:\Users\Dcms\Downloads\RapeToLiveCore[PTK]\src\pocketmine\plugin\PluginBase.php on line 283" (EXCEPTION) in "/src/pocketmine/utils/Config" at line 377
+2017-10-13 [20:52:12] [RTL/THÔNG TIN]: AmGl joined the game
+2017-10-13 [20:52:19] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /say ~
+2017-10-13 [20:52:21] [RTL/THÔNG TIN]: -=[Dolpan]=- Vào group của server để trao đổi tại bit.do/dolpangroup
+2017-10-13 [20:52:22] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /say ~
+2017-10-13 [20:52:25] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /hub 
+2017-10-13 [20:52:35] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /spawn 
+2017-10-13 [20:52:35] [RTL/THÔNG TIN]: AmGl teleported away!
+2017-10-13 [20:52:36] [RTL/THÔNG TIN]: -=[Dolpan]=- Vote cho server tại trang bit.do/dolpanpevote để có rank Plantinum với nhiều đặc quyền giống VIP và Police và các phần thưởng•
+2017-10-13 [20:52:37] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /op amgl
+2017-10-13 [20:52:37] [RTL/THÔNG TIN]: [CONSOLE: Opped AmGl]
+2017-10-13 [20:52:43] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /gmc 
+2017-10-13 [20:52:43] [RTL/THÔNG TIN]: AmGl changed gamemode to Creative mode
+2017-10-13 [20:52:48] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /m�w ld sb2
+2017-10-13 [20:52:48] [RTL/THÔNG TIN]: Unknown command. Try /help for a list of commands
+2017-10-13 [20:52:51] [RTL/THÔNG TIN]: -=[Dolpan]=- Ấn vào sign hoặc NPC để chơi!!
+2017-10-13 [20:52:58] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /pl 
+2017-10-13 [20:53:00] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /say �world sb2
+2017-10-13 [20:53:00] [RTL/THÔNG TIN]: [Server] �world sb2
+2017-10-13 [20:53:06] [RTL/THÔNG TIN]: -=[Dolpan]=- • NEW!!! Ghi /trade để trade!!
+2017-10-13 [20:53:10] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /sb auto
+2017-10-13 [20:53:11] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /god a
+2017-10-13 [20:53:11] [RTL/THÔNG TIN]: →Bạn đã được bật chế độ bất tử!!
+2017-10-13 [20:53:14] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /khu is
+2017-10-13 [20:53:17] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /warp sb
+2017-10-13 [20:53:20] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /warps 
+2017-10-13 [20:53:21] [RTL/THÔNG TIN]: -=[Dolpan]=- Hit sign or NPC to play!
+2017-10-13 [20:53:27] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /sb generate sb
+2017-10-13 [20:53:27] [RTL/THÔNG TIN]: Preparing level "sb"
+2017-10-13 [20:53:27] [RTL/THÔNG TIN]: [TapToDo] Reloading blocks due to level sb loaded...
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level RankA because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:53:27] [RTL/ĐỂ Ý]: Spawn terrain for level "sb" is being generated in the background
+2017-10-13 [20:53:31] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /say ghi /mư tp sb2
+2017-10-13 [20:53:31] [RTL/THÔNG TIN]: [Server] ghi /mư tp sb2
+2017-10-13 [20:53:32] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /mw tp sb
+2017-10-13 [20:53:32] [RTL/THÔNG TIN]: AmGl teleported to sb
+2017-10-13 [20:53:36] [RTL/THÔNG TIN]: -=[Dolpan]=- Không chửi nhau trong server
+2017-10-13 [20:53:36] [RTL/THÔNG TIN]: [[Mythic]]Sử dụng /trade để trade đồ.NEW!!!!
+2017-10-13 [20:53:41] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /sb auto
+2017-10-13 [20:53:49] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /say sb2 m ngáo à
+2017-10-13 [20:53:49] [RTL/THÔNG TIN]: [Server] sb2 m ngáo à
+2017-10-13 [20:53:51] [RTL/THÔNG TIN]: -=[Dolpan]=- Ủng hộ server để có thêm nhiều chế độ chơi mới!!
+2017-10-13 [20:53:55] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /say đù
+2017-10-13 [20:53:55] [RTL/CHỈ TRÍCH]: "Could not pass event 'pocketmine\event\player\PlayerChatEvent' to 'PureChat v1.4.0': Call to undefined method FactionsPro\FactionMain::getSession() on _64FF00\PureChat\PCListener
+2017-10-13 [20:53:55] [RTL/CHỈ TRÍCH]: Error: "Call to undefined method FactionsPro\FactionMain::getSession()" (EXCEPTION) in "/plugins/PureChat_v1.4.0/src/_64FF00/PureChat/factions/FactionsProNew" at line 37
+2017-10-13 [20:53:55] [RTL/THÔNG TIN]: AmGl : đù
+2017-10-13 [20:54:06] [RTL/THÔNG TIN]: -=[Dolpan]=- Ghi /warp luat để đến warp luật!
+2017-10-13 [20:54:16] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /�say sao
+2017-10-13 [20:54:16] [RTL/THÔNG TIN]: Unknown command. Try /help for a list of commands
+2017-10-13 [20:54:17] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /say hàng rào + nước ra block luôn
+2017-10-13 [20:54:17] [RTL/CHỈ TRÍCH]: "Could not pass event 'pocketmine\event\player\PlayerChatEvent' to 'PureChat v1.4.0': Call to undefined method FactionsPro\FactionMain::getSession() on _64FF00\PureChat\PCListener
+2017-10-13 [20:54:17] [RTL/CHỈ TRÍCH]: Error: "Call to undefined method FactionsPro\FactionMain::getSession()" (EXCEPTION) in "/plugins/PureChat_v1.4.0/src/_64FF00/PureChat/factions/FactionsProNew" at line 37
+2017-10-13 [20:54:17] [RTL/THÔNG TIN]: AmGl : hàng rào + nước ra block luôn
+2017-10-13 [20:54:21] [RTL/THÔNG TIN]: -=[Dolpan]=- Ghi /warp pvp để trải nghiệm PvP!
+2017-10-13 [20:54:21] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /uh
+2017-10-13 [20:54:21] [RTL/THÔNG TIN]: Unknown command. Try /help for a list of commands
+2017-10-13 [20:54:22] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /mw tp sb2
+2017-10-13 [20:54:22] [RTL/THÔNG TIN]: Preparing level "sb2"
+2017-10-13 [20:54:22] [RTL/THÔNG TIN]: [TapToDo] Reloading blocks due to level sb2 loaded...
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level RankA because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-13 [20:54:22] [RTL/THÔNG TIN]: AmGl teleported to sb2
+2017-10-13 [20:54:24] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /say uh
+2017-10-13 [20:54:24] [RTL/THÔNG TIN]: [Server] uh
+2017-10-13 [20:54:31] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /sb auto
+2017-10-13 [20:54:36] [RTL/THÔNG TIN]: -=[Dolpan]=- NEW!!!!! Ghi /about để xem thông tin về server
+2017-10-13 [20:54:39] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /say t là b�est
+2017-10-13 [20:54:39] [RTL/THÔNG TIN]: [Server] t là b�est
+2017-10-13 [20:54:49] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /say t la best
+2017-10-13 [20:54:49] [RTL/THÔNG TIN]: [Server] t la best
+2017-10-13 [20:54:50] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /say đợi t up
+2017-10-13 [20:54:50] [RTL/CHỈ TRÍCH]: "Could not pass event 'pocketmine\event\player\PlayerChatEvent' to 'PureChat v1.4.0': Call to undefined method FactionsPro\FactionMain::getSession() on _64FF00\PureChat\PCListener
+2017-10-13 [20:54:50] [RTL/CHỈ TRÍCH]: Error: "Call to undefined method FactionsPro\FactionMain::getSession()" (EXCEPTION) in "/plugins/PureChat_v1.4.0/src/_64FF00/PureChat/factions/FactionsProNew" at line 37
+2017-10-13 [20:54:50] [RTL/THÔNG TIN]: AmGl : đợi t up
+2017-10-13 [20:54:51] [RTL/THÔNG TIN]: -=[Dolpan]=- Dolpan open beta
+2017-10-13 [20:55:03] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /say nhứo share nhá
+2017-10-13 [20:55:03] [RTL/CHỈ TRÍCH]: "Could not pass event 'pocketmine\event\player\PlayerChatEvent' to 'PureChat v1.4.0': Call to undefined method FactionsPro\FactionMain::getSession() on _64FF00\PureChat\PCListener
+2017-10-13 [20:55:03] [RTL/CHỈ TRÍCH]: Error: "Call to undefined method FactionsPro\FactionMain::getSession()" (EXCEPTION) in "/plugins/PureChat_v1.4.0/src/_64FF00/PureChat/factions/FactionsProNew" at line 37
+2017-10-13 [20:55:03] [RTL/THÔNG TIN]: AmGl : nhứo share nhá
+2017-10-13 [20:55:06] [RTL/THÔNG TIN]: -=[Dolpan]=- OP không bao giờ đòi giao mật khẩu
+2017-10-13 [20:55:11] [RTL/THÔNG TIN]: [CommandTracker] <AmGl> /say đkm đừng mã hóa nha
+2017-10-13 [20:55:11] [RTL/CHỈ TRÍCH]: "Could not pass event 'pocketmine\event\player\PlayerChatEvent' to 'PureChat v1.4.0': Call to undefined method FactionsPro\FactionMain::getSession() on _64FF00\PureChat\PCListener
+2017-10-13 [20:55:11] [RTL/CHỈ TRÍCH]: Error: "Call to undefined method FactionsPro\FactionMain::getSession()" (EXCEPTION) in "/plugins/PureChat_v1.4.0/src/_64FF00/PureChat/factions/FactionsProNew" at line 37
+2017-10-13 [20:55:11] [RTL/THÔNG TIN]: AmGl : đkm đừng mã hóa nha
+2017-10-13 [20:55:21] [RTL/THÔNG TIN]: -=[Dolpan]=- rank YT đang chờ bạn với 100 sub trở lên :>
+2017-10-13 [20:55:36] [RTL/THÔNG TIN]: -=[Dolpan]=- Ghi /listec để được xem danh sách enchant!
+2017-10-13 [20:55:51] [RTL/THÔNG TIN]: -=[Dolpan]=- Dolpan open beta
+2017-10-13 [20:56:06] [RTL/THÔNG TIN]: -=[Dolpan]=- •Ghi ./sb auto để tìm đảo còn trống
+2017-10-13 [20:56:06] [RTL/THÔNG TIN]: [[Mythic]]Cày và trải nghiệm Skyblock nào!
+2017-10-14 [15:54:32] [RTL/CẢNH BÁO]: Online mode has been turned off in server.properties
+2017-10-14 [15:54:32] [RTL/CẢNH BÁO]: Xbox Live authentication is disabled.
+2017-10-14 [15:54:32] [RTL/THÔNG TIN]: Selected English (eng) as the base language
+2017-10-14 [15:54:32] [RTL/THÔNG TIN]: Opening server on 0.0.0.0:1212
+2017-10-14 [15:54:32] [RTL/THÔNG TIN]: RapeToLive is distributed under the GPL License version 3 and later
+2017-10-14 [15:54:33] [RTL/THÔNG TIN]: Loading recipes...
+2017-10-14 [15:54:33] [RTL/THÔNG TIN]: Loading resource packs...
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading Alias v1.2.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading AntiServerStop v1.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading AutoInv v1.0.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading AutoMessage v1.16
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading blockMCPE14 v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading Broadcaster v1.16
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading ClearChat v1.0.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading CommandTracker v1.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading EconomyAPI v2.0.9
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading EconomyJob v2.0.4
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading EconomyLand v2.0.9
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading EconomySell v2.0.7
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading EconomyShop v2.0.7
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading essentialsTP v1.1.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading aFloatingText v1.2
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading Fly v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading IFloatingText v1.1.3
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading InventorySize v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading iProtector v3.1b
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading ItemCasePE v1.0.8
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading ItemCloud v1.3
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading KeepInventory v1.2.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading KillChat v1.0.2.MOD
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading MagicWE v0.2.6
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [MagicWE] MagicWE has been loaded!
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading ManyWorlds v2.0.3
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading MisteryBox v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading MSpawns v1.5
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading Nicknames v1.0.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading NoFrameDrop v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading ParticlesPlus v0.0.2
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading PocketGuard v2.1.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading PlayerSize v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading NoDrops v1.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading PmChair v1.3
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading PurePerms v1.3.6
+2017-10-14 [15:54:34] [RTL/ĐỂ Ý]: PurePerms by 64FF00 (Twitter: @64FF00)
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [PurePerms] Setting default language to 'en'
+2017-10-14 [15:54:34] [RTL/ĐỂ Ý]: [PurePerms] Multiworld support is currently disabled.
+2017-10-14 [15:54:34] [RTL/ĐỂ Ý]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading ReserveSlots v1.0.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading ServerMail v0.0.2
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading SignEnchant v1.1.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading SignModifier v1.0.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading SimpleAuth v1.7.2
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading Slapper v2.1_PHP7
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading superBAR v1.6.2
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading TapToDo v2.2.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading Titler v0.1.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [Titler] Đang tải dữ liệu...
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading TPALL v1.0.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading WorldProtect v2.2.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) Giftcode2_HeoGM v1.2beta2
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) Giftcode3_HeoGM v1.2beta3
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) Giftcode4_HeoGM v1.2beta4
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) Giftcode v1.2beta1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) Quà_Vip_SPC_By_HeoGM v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) FactionsPro v1.0 rewrite by PTK-KienPham
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) NapThe v2.2
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) RD v2.0.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) Rules_by_HeoGM_0.0.1# v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) SETVIP v2.3
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) Tool[PTK] v2.0.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) Trade[PTK] v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) TransferServerTitle v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading SimpleAuthHelper v2.0.4
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading GrabBag v2.3.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) PureChat v1.4.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Loading (Source) SkyBlock v2
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling AutoMessage v1.16
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling Broadcaster v1.16
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling CommandTracker v1.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling MagicWE v0.2.6
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [MagicWE] MagicWE enabled!
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling MSpawns v1.5
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling SimpleAuth v1.7.2
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [SimpleAuth] Everything loaded!
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling WorldProtect v2.2.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [WorldProtect] Enabled 4 features
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling SkyBlock v2
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [SkyBlock] Đang Chạy Plugin SkyBlock Bởi PTK-KienPham
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Preparing level "world"
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Preparing level "nether"
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Preparing level "ender"
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling Alias v1.2.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling AntiServerStop v1.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [AntiServerStop] AntiServerStop by paetti loaded.
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling AutoInv v1.0.1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [AutoInv] Enabled
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling blockMCPE14 v1
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling ClearChat v1.0.0
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [ClearChat] by Mineboy210 geladen!
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: Enabling EconomyAPI v2.0.9
+2017-10-14 [15:54:34] [RTL/ĐỂ Ý]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2017-10-14 [15:54:34] [RTL/THÔNG TIN]: [EconomyAPI] Checking for updates... It may be take some while.
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling EconomyJob v2.0.4
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling EconomyLand v2.0.9
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling EconomySell v2.0.7
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling EconomyShop v2.0.7
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling essentialsTP v1.1.0
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [essentialsTP] essentialsTP+ loading...
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [essentialsTP] [INFO] loading [config.yml]....
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [essentialsTP] [INFO] loading [config.yml] DONE
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [essentialsTP] essentialsTP+ loaded!
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling aFloatingText v1.2
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [aFloatingText] Плагин загружен
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Fly v1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [Fly] Plugin Fly v1 by DragonPlayzMC
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling IFloatingText v1.1.3
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [IFloatingText] 数据读取中..
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [IFloatingText] 数据读取成功！
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [IFloatingText] IFloatingText v1.1.3 For API 3.0.x đã được kích hoạt!
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling InventorySize v1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling iProtector v3.1b
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling ItemCasePE v1.0.8
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling ItemCloud v1.3
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling KeepInventory v1.2.0
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: KeepInventory by boybook.
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling KillChat v1.0.2.MOD
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [KillChat] Modified KillChat extension for superBAR enabled
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling ManyWorlds v2.0.3
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling MisteryBox v1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Nicknames v1.0.0
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling NoFrameDrop v1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: NoFrameDrop MADE BY vk.com/frago9876543210
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling ParticlesPlus v0.0.2
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling PocketGuard v2.1.1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling PlayerSize v1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [PlayerSize] Loading...
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling NoDrops v1.1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: NoDrops Loaded!
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling PmChair v1.3
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling PurePerms v1.3.6
+2017-10-14 [15:54:35] [RTL/ĐỂ Ý]: [PurePerms] Set data provider to YAMLv1.
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling ReserveSlots v1.0.1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling ServerMail v0.0.2
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [ServerMail] Using ServerMailAPI found at 'phar://C:/Users/Bin/Downloads/RapeToLiveCore[PTK]/plugins/ServerMail_v0.0.2.phar/src/tschrock/ServerMailAPI.php'
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling SignEnchant v1.1.1
+2017-10-14 [15:54:35] [RTL/ĐỂ Ý]: [SignEnchant] SignEnchantActivado
+2017-10-14 [15:54:35] [RTL/ĐỂ Ý]: [SignEnchant] Desavtivado
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling SignModifier v1.0.0
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: SignModifier Enabled!
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Slapper v2.1_PHP7
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling superBAR v1.6.2
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [superBAR] superBAR will be enabled after the complete server load
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling TapToDo v2.2.1
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level RankA because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level F1 because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level lobby because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level sb because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level hl because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/CẢNH BÁO]: [TapToDo] Could not load block in level pvpsv because that level is not loaded.
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Titler v0.1.0
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [Titler] Đã được kích hoạt!
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling TPALL v1.0.0
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Giftcode2_HeoGM v1.2beta2
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Giftcode3_HeoGM v1.2beta3
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Giftcode4_HeoGM v1.2beta4
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Giftcode v1.2beta1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Quà_Vip_SPC_By_HeoGM v1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [Quà_Vip_SPC_By_HeoGM] PLUGIN QUÀ VIP ĐỘC QUYỀN FOR DOLPAN ON
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling FactionsPro v1.0 rewrite by PTK-KienPham
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling NapThe v2.2
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [NapThe] plugins\NapThe\card_dung.log đã sẵn sàng
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [NapThe] plugins\NapThe\card_delay.log đã sẵn sàng
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling RD v2.0.0
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [RD] Plugin Random Ore Make by Řā Şø and edit for SPC by HeoGM
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Rules_by_HeoGM_0.0.1# v1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [Rules_by_HeoGM_0.0.1#] PLUGIN Luật Lệ Độc Quyền For SPC  ON
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling SETVIP v2.3
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Tool[PTK] v2.0.0
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [Tool[PTK]] →Đang chạy plugin Tool[PTK]...
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling Trade[PTK] v1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [Trade[PTK]] Trade Đã Hoạt Động! Plugin Được Viết Bởi PTK-KienPham
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling TransferServerTitle v1
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling SimpleAuthHelper v2.0.4
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling GrabBag v2.3.0
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: [GrabBag] Enabled 42 features
+2017-10-14 [15:54:35] [RTL/THÔNG TIN]: Enabling PureChat v1.4.0
+2017-10-14 [15:54:35] [RTL/ĐỂ Ý]: [PureChat] FactionsPro mới đã được bật
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: Starting GS4 status listener
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: Setting query port to 1212
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: Query running on 0.0.0.0:1212
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: Default game type: Survival Mode
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: Done (4.633s)! For help, type "help" or "?"
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: -=[Dolpan]=- •Ghi ./sb auto để tìm đảo còn trống
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: [superBAR] superBAR loading...
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: [superBAR] EconomyAPI OK!
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: [superBAR] FactionsPro OK!
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: [superBAR] PurePerms OK!
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: [superBAR] KillChat OK!
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: [superBAR] superBAR by FaigerSYS enabled!
+2017-10-14 [15:54:36] [RTL/THÔNG TIN]: [[Mythic]]Sử dụng /napthe để nạp coin hoặc nạp VIP
+2017-10-14 [15:54:37] [RTL/THÔNG TIN]: [Tool[PTK]-System]→ Không có phiên bản cập nhật nào mới cho Tool[PTK].Bạn đang dùng bản mới nhất!
+2017-10-14 [15:54:51] [RTL/THÔNG TIN]: -=[Dolpan]=- Nạp thẻ với /napthe coin và nhận nhiều phần quà hấp bẫn•
+2017-10-14 [15:54:57] [RTL/THÔNG TIN]: [CommandTracker] <CONSOLE> /hêllo
+2017-10-14 [15:54:57] [RTL/THÔNG TIN]: Unknown command. Try /help for a list of commands

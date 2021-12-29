@@ -1,0 +1,52 @@
+---
+-672:69:1208:sb:
+  x: -672
+  "y": 69
+  z: 1208
+  level: sb
+  cost: 800
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 64
+-655:71:1215:sb:
+  x: -655
+  "y": 71
+  z: 1215
+  level: sb
+  cost: 800
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 5
+-655:71:1213:sb:
+  x: -655
+  "y": 71
+  z: 1213
+  level: sb
+  cost: 1000
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 10
+-674:71:1208:sb:
+  x: -674
+  "y": 71
+  z: 1208
+  level: sb
+  cost: 500
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 64
+-656:71:1216:sb:
+  x: -656
+  "y": 71
+  z: 1216
+  level: sb
+  cost: 1000
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 25
+...
